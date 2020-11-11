@@ -1,0 +1,11 @@
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\bin\Debug\TrabajoFinalV1.exe.config
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\bin\Debug\TrabajoFinalV1.exe
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\bin\Debug\TrabajoFinalV1.pdb
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\obj\Debug\FrontEnd.csprojAssemblyReference.cache
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\obj\Debug\TrabajoFinalV1.Form1.resources
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\obj\Debug\TrabajoFinalV1.Properties.Resources.resources
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\obj\Debug\FrontEnd.csproj.GenerateResource.cache
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\obj\Debug\FrontEnd.csproj.CoreCompileInputs.cache
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\obj\Debug\TrabajoFinalV1.exe
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\obj\Debug\TrabajoFinalV1.pdb
+D:\ProgINI\TrabajoFinalV1\TrabajoFinalV1\obj\Debug\TrabajoFinalV1.SegundaVentana.resources

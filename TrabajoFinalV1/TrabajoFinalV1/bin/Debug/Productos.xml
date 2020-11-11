@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Productos>
+    <Comida>Hamburguesa Simple C/ Papas</Comida>
+    <Precio>$200</Precio>
+  </Productos>
+  <Productos>
+    <Comida>Pizza de Fugazzeta</Comida>
+    <Precio>$ 250</Precio>
+  </Productos>
+</DocumentElement>
